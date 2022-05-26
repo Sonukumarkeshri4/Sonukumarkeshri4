@@ -1,6 +1,7 @@
 
 # <b> <p align="center"> Hello, everyone! 👋 </p>  </b>
-I am Sonu Kumar Keshri. I wont say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF007F&size=30&lines=I'm+Sonu+Kumar+Keshri)
+I wont say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
  from National Institute of Technology, Patna . I am an experienced developer skilled in C++,Python, Full Stack Development, Machine learning,
   MERN, Javascript and its frameworks. <br/>
 
@@ -17,9 +18,12 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 
 ### 📫 How to reach me?
 
-- [LinkedIn](https://www.linkedin.com/in/sonu-kumar-keshri-b7b8761a6/)
-- [My personal portfolio](https://sonukumarkeshri4.github.io/personal-Portfolio/)
 
+- [My personal portfolio](https://sonukumarkeshri4.github.io/personal-Portfolio/)
+<a target="_blank" href="https://www.linkedin.com/in/sonu-kumar-keshri-b7b8761a6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:sonuk.ug19.ec@nitp.ac.in"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 
@@ -34,7 +38,7 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 <hr>
 
 # Happy Creating !!😀
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Sonukumarkeshri4&theme=radical&hide_border=true&area=true)
 <!--
 **Sonukumarkeshri4/Sonukumarkeshri4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
