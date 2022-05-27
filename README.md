@@ -1,6 +1,7 @@
 
 # <b> <p align="center"> Hello, everyone! 👋 </p>  </b>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF007F&size=30&lines=I'm+Sonu+Kumar+Keshri)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3009&color=79F737&background=010A5300&center=true&vCenter=true&lines=I'm+Sonu+Kumar+Keshri)](https://git.io/typing-svg)
 <br>
 I wont say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
  from National Institute of Technology, Patna . I am an experienced developer skilled in C++,Python, Full Stack Development, Machine learning,
