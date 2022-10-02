@@ -8,12 +8,15 @@ I wont say that I'm a beginner or pro, rather a curious learner and developer�
   MERN, Javascript and its frameworks. <br/>
 
 
-<br/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sonukumarkeshri4&show_icons=true&theme=merko&custom_title=Sonu's+GitHub+Stats&include_all_commits=true"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumarkeshri4&theme=merko&langs_count=5&layout=compact&api_domain=Wakapi"><a/>
+<br/> <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Sonukumarkeshri4&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumarkeshri4&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <br/>
 > NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 ### 😄 Pronouns
 He/His
+
+### Skills
+<p> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
 ### ⚡ One line that describes me best?
 I'm a curious learner and developer, and my ambitions are sky high, just waiting for an opportunity.
