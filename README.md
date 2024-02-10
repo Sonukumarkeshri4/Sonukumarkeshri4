@@ -1,22 +1,34 @@
 
 # <b> <p align="center"> Hello, everyone! 👋 </p>  </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3009&color=79F737&background=010A5300&center=true&vCenter=true&lines=I'm+Sonu+Kumar+Keshri)](https://git.io/typing-svg)
 <br>
 I wont say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
- from National Institute of Technology, Patna . I am an experienced developer skilled in C++,Python, Full Stack Development, Machine learning,
-  MERN, Javascript and its frameworks. <br/>
+ from National Institute of Technology, Patna . <br/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
+- 💼 Currently working at **Reliance JIO as a DevOps Engineer**.
+- 🌱 Learning and exploring DevOps tools.
+- 👯 SME Intern at Softusvista.
+- 🎓 NIT Patna graduate 2023.
+ 
 <br/> <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Sonukumarkeshri4&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumarkeshri4&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <br/>
 > NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-### 😄 Pronouns
-He/His
 
 ### Skills
 <p> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h4>##### Some of the tools & technologies I'm currently exploring!!</h4>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### ⚡ One line that describes me best?
 I'm a curious learner and developer, and my ambitions are sky high, just waiting for an opportunity.
@@ -43,8 +55,11 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 </p>
 <hr>
 
-# Happy Creating !!😀
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Sonukumarkeshri4&theme=radical&hide_border=true&area=true)
+
+
+## :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonukumarkeshri4&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 <!--
 **Sonukumarkeshri4/Sonukumarkeshri4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
