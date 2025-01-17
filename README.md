@@ -68,7 +68,7 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 
 
 ## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonukumarkeshri4&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Spnukumarkeshri4)](https://git.io/streak-stats)
 
 <!--
 **Sonukumarkeshri4/Sonukumarkeshri4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
