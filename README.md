@@ -46,7 +46,8 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 ### 📫 How to reach me?
 
 
-- [My personal portfolio](https://sonukumarkeshri4.github.io/personal-Portfolio/)
+   <a href="https://sonukumarkeshri4.github.io/personal-Portfolio/"><img src="https://img.shields.io/badge/Website-23112010?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+ 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/sonu-kumar-keshri-b7b8761a6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
